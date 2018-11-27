@@ -1,1 +1,2 @@
 * [English](en/)
+* [Spanish](es/)
